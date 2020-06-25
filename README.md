@@ -1,3 +1,3 @@
-# Rock Paper Scissors [JS console only]
+# Rock Paper Scissors
 
-Call `game();` to start a match.
+Now with simple UI
