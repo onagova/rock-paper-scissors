@@ -66,6 +66,7 @@ function game() {
 
     const logHeader = document.querySelector('#log-header');
     const log = document.querySelector('#log');
+    log.textContent = '\n\n\n\n'; // preemtively create height
 
     const selectionList = document.querySelectorAll('.selection');
     selectionList.forEach(function (item) {
